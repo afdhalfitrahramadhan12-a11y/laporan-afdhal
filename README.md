@@ -417,7 +417,7 @@ http://127.0.0.1:5002
 
 ---
 
-# 🛒 Test Order Service
+#  Test Order Service
 
 Pastikan:
 
@@ -490,7 +490,7 @@ http://127.0.0.1:5001/books/1
 
 ---
 
-# ⚠️ FAULT ISOLATION
+#  FAULT ISOLATION
 
 Fault Isolation digunakan untuk menguji kondisi ketika Book Service mengalami gangguan.
 
